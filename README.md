@@ -5,7 +5,7 @@ Final Project for 10-605: Machine Learning with Large Datasets. The goal of this
 project was to explore different machine learning methods on a sizeable dataset.
 The chosen task was to predict a Reddit comment's score given information that
 is present at the time of comment posting as a regression problem. We used the
-[https://files.pushshift.io/reddit/comments/](Reddit Comment Corpus Dataset).
+[Reddit Comment Corpus Dataset](https://files.pushshift.io/reddit/comments/).
 For computing, we used Microsoft Azure and Google Cloud Platform.
 
 ## Repository
