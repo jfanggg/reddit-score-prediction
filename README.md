@@ -9,7 +9,7 @@ is present at the time of comment posting as a regression problem. We used the
 For computing, we used Microsoft Azure and Google Cloud Platform.
 
 ## Repository
-The code is organized into several notebooks. 
+The code is organized into several notebooks and a report is included.
 
 - `preprocess.ipynb`: read raw data, extract features, and write to storage
 - `data_exploration.ipynb`: find statistics such as average and standard 
