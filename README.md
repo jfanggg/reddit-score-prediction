@@ -10,12 +10,12 @@ For computing, we used Microsoft Azure and Google Cloud Platform.
 
 ## Repository
 The code is organized into several notebooks. The first three notebooks were 
-run in Databricks while the multi-layer perceptron code was run in Google 
+run in Databricks while the multi-layer perceptron notebook was run in Google
 Colab. A report is also included.
 
 - `preprocess.ipynb`: read raw data, extract features, and write to storage
 - `data_exploration.ipynb`: find statistics such as average and standard 
-  devation for certain features
+  deviation for certain features
 - `spark_ml_methods.ipynb`: linear regression and random forests code
 - `mlp_method.ipynb`: multi-layer perceptron code
 - `report.pdf`: report write-up
